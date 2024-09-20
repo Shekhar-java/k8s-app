@@ -60,7 +60,7 @@
 				</executions>
 				<configuration>
 					<!-- todo -->
-					<repository>Shekhar-java/${project.name}</repository>
+					<repository>cmaruthi/${project.name}</repository>
 					<tag>${project.version}</tag>
 					<buildArgs>
 						<JAR_FILE>target/${project.build.finalName}.jar</JAR_FILE>
